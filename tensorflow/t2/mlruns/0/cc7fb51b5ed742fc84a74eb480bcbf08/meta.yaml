@@ -1,0 +1,15 @@
+artifact_uri: file:///home/samsung/mlflow/examples/tensorflow/t2/mlruns/0/cc7fb51b5ed742fc84a74eb480bcbf08/artifacts
+end_time: 1620778608642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: cc7fb51b5ed742fc84a74eb480bcbf08
+run_uuid: cc7fb51b5ed742fc84a74eb480bcbf08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1620778468736
+status: 3
+tags: []
+user_id: samsung
