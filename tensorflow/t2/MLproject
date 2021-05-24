@@ -3,5 +3,5 @@ conda_env: conda.yaml
 
 entry_points:
   main:
-    command: "python t2.py "
+    command: "python3 t2.py "
 
