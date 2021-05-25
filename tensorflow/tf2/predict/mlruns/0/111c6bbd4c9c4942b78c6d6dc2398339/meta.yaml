@@ -1,0 +1,15 @@
+artifact_uri: file:///root/test/mlflow/tensorflow/tf2/predict/mlruns/0/111c6bbd4c9c4942b78c6d6dc2398339/artifacts
+end_time: 1621900765214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 111c6bbd4c9c4942b78c6d6dc2398339
+run_uuid: 111c6bbd4c9c4942b78c6d6dc2398339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621900764850
+status: 3
+tags: []
+user_id: root

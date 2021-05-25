@@ -1,1 +1,0 @@
-[{"run_id": "73ecb06c6d0a4bb6a3ac7d2a51547f21", "artifact_path": "model", "utc_time_created": "2021-05-10 23:49:44.182776", "flavors": {"tensorflow": {"saved_model_dir": "tfmodel", "meta_graph_tags": ["serve"], "signature_def_key": "predict"}, "python_function": {"loader_module": "mlflow.tensorflow", "python_version": "3.6.10", "env": "conda.yaml"}}}]
